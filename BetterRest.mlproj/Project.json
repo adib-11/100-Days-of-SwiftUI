@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-02-28T20:27:00Z",
+        "event" : "projectCreated",
+        "id" : "BB1DF747-1EBB-4BD7-9C5B-CA77A2DD43C4",
+        "subtitle" : "BetterRest",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Adib Hasan",
+  "createdDate" : "2026-02-28T20:27:00Z",
+  "description" : "",
+  "id" : "261B7239-A4D5-4C07-89DF-A5A90AA4B2C1",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-02-28T20:27:00Z",
+  "projectName" : "BetterRest",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "generalRegresor",
+  "title" : "Tabular Regression",
+  "version" : "1.1"
+}
