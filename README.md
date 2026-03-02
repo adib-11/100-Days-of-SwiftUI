@@ -23,12 +23,8 @@ As an engineering student, I am using this repository not just to follow tutoria
 - [x] **Milestone:** Views and Modifiers deep dive
 
 **Phase 3: Expanding Skills (Days 26 - 34)**
-<<<<<<< HEAD
-- [x] **Project 4: BetterRest** - Machine learning app to predict sleep schedules using CoreML
+- [x] **Project 4: BetterRest** - Machine learning app predicting sleep schedules using CoreML, DatePicker, and Steppers (Completed Day 27)
 - [ ] **Project 5: Word Scramble** - Game introducing `List` and `onAppear`
 - [ ] **Project 6: Animations** - Exploring implicit/explicit animations and transitions
-=======
-- [x] **Project 4: BetterRest** - Machine learning app predicting sleep schedules using CoreML, DatePicker, and Steppers (Completed Day 27)
->>>>>>> 1e4b01c (feat: integrate Core ML prediction logic and build Form UI for BetterRest (Day 27))
 
 *(Note: I will continue to update this tracker weekly as I progress toward Day 100).*
