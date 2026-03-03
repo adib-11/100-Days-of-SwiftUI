@@ -26,6 +26,7 @@ As an engineering student, I am using this repository not just to follow tutoria
 - [x] **Project 4: BetterRest** - Machine learning app predicting sleep schedules using CoreML, DatePicker, and Steppers
   - [x] Day 26: Initial UI with Form layout and user input controls
   - [x] Day 27: CoreML prediction integration with `SleepCalculator.mlmodel`
+  - [x] Day 28: BetterRest wrap up and review
 - [ ] **Project 5: Word Scramble** - Game introducing `List` and `onAppear`
 - [ ] **Project 6: Animations** - Exploring implicit/explicit animations and transitions
 
