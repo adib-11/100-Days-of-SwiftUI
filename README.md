@@ -27,7 +27,7 @@ As an engineering student, I am using this repository not just to follow tutoria
   - [x] Day 26: Initial UI with Form layout and user input controls
   - [x] Day 27: CoreML prediction integration with `SleepCalculator.mlmodel`
   - [x] Day 28: BetterRest wrap up and review
-- [/] **Project 5: Word Scramble** - Game introducing `List` and `onAppear`
+- [ ] **Project 5: Word Scramble** - Game introducing `List` and `onAppear`
   - [x] Day 29: Initial project setup with `List`, `Bundle`, string methods, and `UITextChecker`
 - [ ] **Project 6: Animations** - Exploring implicit/explicit animations and transitions
 
