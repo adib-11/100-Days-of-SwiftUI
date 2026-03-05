@@ -29,6 +29,7 @@ As an engineering student, I am using this repository not just to follow tutoria
   - [x] Day 28: BetterRest wrap up and review
 - [ ] **Project 5: Word Scramble** - Game introducing `List` and `onAppear`
   - [x] Day 29: Initial project setup with `List`, `Bundle`, string methods, and `UITextChecker`
+  - [x] Day 30: Full game logic with word validation, `onSubmit`, animations, and error alerts
 - [ ] **Project 6: Animations** - Exploring implicit/explicit animations and transitions
 
 *(Note: I will continue to update this tracker weekly as I progress toward Day 100).*
